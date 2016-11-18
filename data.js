@@ -1,1 +1,1 @@
-
+alert('triunfo el mal');
